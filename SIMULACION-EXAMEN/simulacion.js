@@ -12,7 +12,7 @@ let nota = parseInt(prompt('Ingrese la nota obtenida:'));
 
 function Califaciones(nota) {
     
-    if(isNaN(nota) || nota <= 0){
+    if(isNaN(nota) || nota <= 0 || nota > 10){
         alert('Dato ingresado incorrecto ⚠️');
     }
     else if(nota < 4){
