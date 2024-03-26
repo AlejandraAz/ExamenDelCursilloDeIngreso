@@ -1,1 +1,1 @@
-# ExamenDelCursilloDeIngreso
+#  En la carpeta se encuentra un ejercicio de simulación de examen del cursillo.
