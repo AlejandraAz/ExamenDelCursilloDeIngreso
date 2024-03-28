@@ -1,1 +1,2 @@
-#  En la carpeta se encuentra un ejercicio de simulación de examen del cursillo.
+#  En la carpeta 'SIMULACION-EXAMEN' se encuentra un ejercicio de simulación de examen del cursillo con fecha 26/03/24.
+# En la carpeta EXAMEN-CURSILLO se encuentra el ejercicio del examen del cursillo con fecha 27/03/24.
